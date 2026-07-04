@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>RestrictionQuantity</fullName>
+    <inlineHelpText>Esse campo é obrigatório se o Tipo de ajuste for Valor fixo total. Se o Tipo de ajuste for Brinde, esse campo será limitado a 1. Para qualquer outro tipo de ajuste, insira quantos produtos podem receber esse desconto ou deixe em branco para uma quantidade ilimitada.</inlineHelpText>
+    <trackHistory>false</trackHistory>
+</CustomField>

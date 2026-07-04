@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>IsChkInvOnActiveCartEnabled</fullName>
+    <inlineHelpText>O inventário será verificado sempre que um item no carrinho ativo for adicionado ou alterado.</inlineHelpText>
+</CustomField>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AttendeeLimit</fullName>
+    <inlineHelpText>Insira o número máximo de participantes do compromisso de serviço que podem participar de um compromisso de serviço do grupo. Esse campo será obrigatório se a categoria do compromisso for grupo.</inlineHelpText>
+    <trackHistory>false</trackHistory>
+</CustomField>

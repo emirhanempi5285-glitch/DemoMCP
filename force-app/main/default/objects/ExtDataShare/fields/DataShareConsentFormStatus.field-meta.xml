@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>DataShareConsentFormStatus</fullName>
+    <inlineHelpText>Os administradores ou usuários privilegiados na organização receptora, exceto o Salesforce Data Cloud, podem visualizar e consultar todos os registros dos objetos do data lake (DLOs) mapeados para objetos do modelo de dados (DMOs) no compartilhamento de dados.</inlineHelpText>
+    <trackHistory>false</trackHistory>
+</CustomField>

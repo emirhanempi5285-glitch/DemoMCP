@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>TimeZone</fullName>
+    <inlineHelpText>Especifique o fuso horário registrado quando o compromisso foi agendado ou modificado pela última vez (geralmente, é o fuso horário do paciente). Isso pode diferir do fuso horário usado nas horas de início e término agendadas do compromisso de serviço, que refletem o fuso horário do usuário conectado.</inlineHelpText>
+    <trackHistory>false</trackHistory>
+</CustomField>
